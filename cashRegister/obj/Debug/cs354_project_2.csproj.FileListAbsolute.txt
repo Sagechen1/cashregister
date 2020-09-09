@@ -1,0 +1,10 @@
+C:\Users\Zixiao Chen\source\repos\cs354_project_2\bin\Debug\cs354_project_2.exe.config
+C:\Users\Zixiao Chen\source\repos\cs354_project_2\bin\Debug\cs354_project_2.exe
+C:\Users\Zixiao Chen\source\repos\cs354_project_2\bin\Debug\cs354_project_2.pdb
+C:\Users\Zixiao Chen\source\repos\cs354_project_2\obj\Debug\cs354_project_2.csprojAssemblyReference.cache
+C:\Users\Zixiao Chen\source\repos\cs354_project_2\obj\Debug\cs354_project_2.Properties.Resources.resources
+C:\Users\Zixiao Chen\source\repos\cs354_project_2\obj\Debug\cs354_project_2.csproj.GenerateResource.cache
+C:\Users\Zixiao Chen\source\repos\cs354_project_2\obj\Debug\cs354_project_2.csproj.CoreCompileInputs.cache
+C:\Users\Zixiao Chen\source\repos\cs354_project_2\obj\Debug\cs354_project_2.exe
+C:\Users\Zixiao Chen\source\repos\cs354_project_2\obj\Debug\cs354_project_2.pdb
+C:\Users\Zixiao Chen\source\repos\cs354_project_2\obj\Debug\cs354_project_2.Form1.resources
